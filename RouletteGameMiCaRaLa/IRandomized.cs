@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace RouletteGameMiCaRaLa
 {
-    interface IRandomized
+    public interface IRandomized
     {
+        void CreateRandom();
     }
 }

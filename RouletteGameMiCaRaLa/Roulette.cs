@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RouletteGameMiCaRaLa
 {
-    class Roulette
+    public class Roulette
     {
         private readonly List<Field> _fields;
         private Field _result;

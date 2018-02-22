@@ -51,6 +51,7 @@
     <Compile Include="IRoulette.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Randomized.cs" />
     <Compile Include="RouletteGame.cs" />
     <Compile Include="Roulette.cs" />
   </ItemGroup>
